@@ -2,7 +2,7 @@
 
 This repository contains a C++ program that validates credit card numbers using the **Luhn Algorithm**. The program verifies if the given credit card number is valid by checking its checksum.
 
----
+```
 
 ## How It Works
 
@@ -26,7 +26,7 @@ The program follows these steps to validate a credit card number:
 4. **Output**:
    - Prints whether the entered credit card number is **Valid** or **Invalid**.
 
----
+```
 
 ## Example Usage
 
@@ -40,7 +40,7 @@ Please enter a credit card number to validate: 1234567812345670 Credit Card Numb
 
 Please enter a credit card number to validate: exit
 
----
+```
 
 ## How to Compile and Run
 
@@ -54,7 +54,7 @@ Please enter a credit card number to validate: exit
 4. Run the program:
    ./validator
 
----
+```
 
 ## File Structure
 
@@ -62,7 +62,7 @@ Please enter a credit card number to validate: exit
 ├── CreditCardValidator.cpp   # Source folder for the repository
 ├── README.md                   # Documentation for the project
 
----
+```
 
 ## License
 This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed for your projects.
